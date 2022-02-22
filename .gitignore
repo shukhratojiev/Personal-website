@@ -1,0 +1,12 @@
+.settings
+target/
+.classpath
+.project
+test/
+*.jpg
+*.png
+welcome.jsp
+feedbacks.jsp
+EnrolledDAO.java
+Enrolled.java
+*.class
